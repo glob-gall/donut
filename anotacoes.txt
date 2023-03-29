@@ -1,0 +1,7 @@
+1- pygame window
+2- screen
+3- donut
+4- rotation
+5- luminance
+6- tweaking
+7- color
